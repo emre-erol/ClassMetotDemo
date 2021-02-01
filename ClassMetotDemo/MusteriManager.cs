@@ -8,7 +8,7 @@ namespace ClassMetotDemo
     {
         public void MusteriEkle(Musteri musteri)
         {
-            Console.WriteLine(musteri.musteriIsim + " " + musteri.musteriSoyisim + " " + musteri.hesapId + " isimli kişiyi banka kaydına eklediz.");
+            Console.WriteLine(musteri.musteriIsim + " " + musteri.musteriSoyisim + " " + musteri.hesapId + " isimli kişiyi banka kaydına eklediniz.");
         }
 
         public void MusteriSil(Musteri musteri)
